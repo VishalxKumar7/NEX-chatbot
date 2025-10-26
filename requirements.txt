@@ -1,0 +1,16 @@
+langchain
+langchain_community
+langchain-core
+pypdf
+ipykernel
+sentence-transformers
+langchain-openai
+python-dotenv
+langchain-huggingface
+chromadb
+langchain-chroma
+huggingface-hub
+fastapi
+uvicorn
+streamlit
+requests

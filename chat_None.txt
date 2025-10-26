@@ -1,0 +1,8 @@
+You: what is  ARTICLE 110
+Bot: those terms that are used in two or more articles are defined in
+Article 100. Other definitions are included in the article in
+which they are used but may be referenced in Article 100.
+Part I of this article contains definitions intended to apply
+wherever the terms are used throughout this Code. Part II
+contains definitions applicable to installations and equipment
+
